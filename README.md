@@ -1,4 +1,4 @@
-# 🐍📊 BDM200 – Group Project (Python) | 👥 Group 6 – 🛒 SuperStore Sales EDA
+# 🐍📊 BDM200 – Group Project (Python) | 
 
 ## 🌟 Overview
 This project analyzes the **SuperStore Sales** dataset using **Python** to uncover patterns in **sales performance** 💰 and **profitability** 📈.  
